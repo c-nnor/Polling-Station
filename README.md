@@ -53,15 +53,9 @@ The Election Voting System is a computerized solution designed for the local cou
 <br>
 
 
----
-
-
-## System Design
-
-- 
 
 ---
 
 [Back to Top](#election-voting-system)
 
-**Assignment Brief: PFA2 2023/24**
+
